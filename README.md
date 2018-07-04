@@ -31,7 +31,7 @@ $ kubectl apply -f example/example-myresource.yaml
 ```
 
 The breakpoint should be hit and you can analyze in the debugger the object...
-
+https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3
 ```
 (dlv) p obj
 ```
